@@ -1,0 +1,32 @@
+PODS:
+  - Hero (1.6.1)
+  - Realm (10.7.7):
+    - Realm/Headers (= 10.7.7)
+  - Realm/Headers (10.7.7)
+  - RealmSwift (10.7.7):
+    - Realm (= 10.7.7)
+  - SDWebImage (5.11.1):
+    - SDWebImage/Core (= 5.11.1)
+  - SDWebImage/Core (5.11.1)
+
+DEPENDENCIES:
+  - Hero
+  - RealmSwift
+  - SDWebImage (~> 5.0)
+
+SPEC REPOS:
+  trunk:
+    - Hero
+    - Realm
+    - RealmSwift
+    - SDWebImage
+
+SPEC CHECKSUMS:
+  Hero: 215865ba3ae41dd9bb08cd6c60a645529c6fc94b
+  Realm: 8010af8b7a576ba501729bcbc54a3cd1f1f7dca3
+  RealmSwift: dc17e6d649c12a8996f9e962c3fe6cef356885c4
+  SDWebImage: a7f831e1a65eb5e285e3fb046a23fcfbf08e696d
+
+PODFILE CHECKSUM: 5f730fdc4f20e23b180c8c56cc72678de67d8af4
+
+COCOAPODS: 1.11.2
